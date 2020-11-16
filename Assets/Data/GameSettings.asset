@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b59b6dbc338d8149b37138374c1c3bc, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  Player:
+    Health: 3
+    Speed: 3
+    DelayShot: 2
+  levels:
+  - {fileID: 11400000, guid: 263f6d3fb9c606f4a81481e53c265346, type: 2}
+  - {fileID: 11400000, guid: c84fd1df8e614bd4facd3025c7c667fe, type: 2}
+  - {fileID: 11400000, guid: 495863a9017806a41ae0a3c4ce7bc950, type: 2}
+  - {fileID: 11400000, guid: 844f0cebbb655ea40937c0b100d07a53, type: 2}
+  - {fileID: 11400000, guid: d318dc21e41e9d44397087b21f9a27d1, type: 2}
